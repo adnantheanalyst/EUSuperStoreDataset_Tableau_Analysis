@@ -1,4 +1,3 @@
-# Adnan's Portofolio
 Analytics Portfolio
 # [Project 1: Data Analysis of EU Superstore Dataset Using Tableau]
 
