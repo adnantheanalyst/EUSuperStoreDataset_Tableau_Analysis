@@ -1,4 +1,3 @@
-Analytics Portfolio
 # [Project 1: Data Analysis of EU Superstore Dataset Using Tableau]
 
 This is a project I did to showcase my data analysis skills using Tableau analytics, I created this sample system for helping enterprise decisions.
